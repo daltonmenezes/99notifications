@@ -1,0 +1,18 @@
+{
+  "description": "Unofficial 99designs browser extension to get desktop notifications with the number of unread notifications with specific sound and title bar of 99d pages open updated with these numbers.",
+  "manifest_version": 2,
+  "name": "99Notifications",
+  "version": "1.0",
+  "homepage_url": "https://github.com/daltonmenezes/99notifications",
+  "icons": {
+    "48": "icons/48.png",
+    "96": "icons/96.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["99notifications.js"]
+    }
+  ]
+}
