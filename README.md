@@ -1,2 +1,2 @@
-# 99notifications
-99designs browser extension to get notification alerts with powers.
+# 99Notifications
+Unofficial [99designs](https://99designs.com) browser extension to get desktop notifications with the number of unread notifications with specific sound and title bar of 99d pages open updated with these numbers.
