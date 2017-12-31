@@ -11,3 +11,6 @@ You need at least one tab of 99designs open to work.
 # Extensions
 - [Firefox](https://addons.mozilla.org/addon/99notifications/)
 - Chrome (soon)
+
+# License
+[MIT License](https://github.com/daltonmenezes/99notifications/blob/master/LICENSE)
